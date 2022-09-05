@@ -1,10 +1,14 @@
 # from numpy import Neural Network
 
 ## Как сделать домашку
-- Форкнуть этот репозиторий
-- Установите зависимости
+- Сделайте закрытый репозиторий
+  - Используйте этот репозиторий как template, воспользуйтесь [инструкцией](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
+  - Добавьте в репозиторий этих людей ([инструкция как добавлять](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)):
+    - [@BobaZooba](https://github.com/BobaZooba)
+    - [@nstsj](https://github.com/nstsj)
+- Установите зависимости с помощью команды ```pip install -r requirements.txt```
 - Сделайте задание
-- Заполните [форму](https://form.asana.com/?k=eVYSc3YoLX_Wrr9lAGCkTA&d=1200876361410536)
+- Отправьте ссылку на репозиторий преподователю [@BobaZooba](https://github.com/BobaZooba)
 
 ## Описание задания
 В этой домашке есть две версии: простая и сложная. 
@@ -35,7 +39,7 @@
 Максимальный балл: 10.
 
 ## Дедлайн
-19/10/2021  
+19/09/2022  
 Далее максимальный балл за работу: 7
 
 ## Важные просьбы
